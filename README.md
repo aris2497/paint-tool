@@ -1,1 +1,3 @@
 # paint-tool
+
+![](demo.gif)
